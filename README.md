@@ -23,9 +23,6 @@ Solutions Link: <a href="https://www.onlinegdb.com/wGrITp6qp3" target="_blank">C
 
 ## Week 2 (18.11.2023)
 
-<div id="week2">
-</div>
-
 ### 1. Secrets of the Universe (Easy)
 
 Question Link: <a href="https://www.hackerrank.com/contests/biweekly-2nd-week-2/challenges/secrets-of-the-universe-" target="_blank">Click Here</a><br>
