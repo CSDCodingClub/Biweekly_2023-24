@@ -1,13 +1,10 @@
-# Solutions for Biweekly_2023-24
+# Solutions for Biweekly 2023-24
 
-This repository contains solutions for the biweekly contest conducted by CSD Coding Club.  
+This repository contains solutions for the biweekly contest conducted by the CSD Coding Club.  
 The purpose of this repository is to provide a platform for participants to learn from solutions and improve problem-solving skills. 
 Feel free to contribute your solutions and help others learn.
 
 ## Week 1 (04.11.2023)
-
-<div id="week1">
-</div>
 
 ### 1. Temperatures - Celsius & Fahrenheit (Easy)
 
