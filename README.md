@@ -4,12 +4,7 @@ This repository contains solutions for the biweekly contest conducted by CSD Cod
 The purpose of this repository is to provide a platform for participants to learn from solutions and improve problem-solving skills. 
 Feel free to contribute your solutions and help others learn.
 
-## Solutions List:-
-
-#### Week 1
-#### Week 2
-
-## Week 1
+## Week 1 (04.11.2023)
 
 <div id="week1">
 </div>
@@ -29,12 +24,12 @@ Solutions Link: <a href="https://www.onlinegdb.com/MXr6PT1oZ">Click Here</a><br>
 Question Link: <a href="https://www.hackerrank.com/contests/biweekly-2nd-week-1/challenges/happy-and-sad-number">Click Here</a><br>
 Solutions Link: <a href="https://www.onlinegdb.com/wGrITp6qp3">Click Here</a><br>
 
-## Week 2
+## Week 2 (18.11.2023)
 
 <div id="week2">
 </div>
 
-### 1. Secrets of the universe (Easy)
+### 1. Secrets of the Universe (Easy)
 
 Question Link: <a href="https://www.hackerrank.com/contests/biweekly-2nd-week-2/challenges/secrets-of-the-universe-">Click Here</a><br>
 Solutions Link: <a href="https://www.onlinegdb.com/tzmTJR8uR">Click Here</a><br>
