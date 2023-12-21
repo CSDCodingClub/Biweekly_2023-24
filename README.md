@@ -40,7 +40,7 @@ Solution Link: <a href="https://www.onlinegdb.com/E6bttrE_k">Click Here</a><be>
 
 ## Week 3 (16.12.2023)
 
-### 1. Inversion link (Easy)
+### 1. Inversion Count (Easy)
 
 Question Link: <a href="https://www.hackerrank.com/contests/biweekly-2nd-week-3/challenges/array-inversion-1">Click Here</a><br>
 Solution Link: <a href="https://www.onlinegdb.com/4YEH1axd9">Click Here</a><br>
