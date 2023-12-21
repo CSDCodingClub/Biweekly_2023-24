@@ -40,17 +40,17 @@ Solution Link: <a href="https://www.onlinegdb.com/E6bttrE_k">Click Here</a><be>
 
 ## Week 3 (16.12.2023)
 
-### 1. (Easy)
+### 1. Inversion link (Easy)
 
-Question Link: <a href="paste link here">Click Here</a><br>
-Solution Link: <a href="paste link here">Click Here</a><br>
+Question Link: <a href="https://www.hackerrank.com/contests/biweekly-2nd-week-3/challenges/array-inversion-1">Click Here</a><br>
+Solution Link: <a href="https://www.onlinegdb.com/4YEH1axd9">Click Here</a><br>
 
-### 2. (Medium)
+### 2. Largest Even Sum (Medium)
 
-Question Link: <a href="paste link here">Click Here</a><br>
-Solution Link: <a href="paste link here">Click Here</a><br>
+Question Link: <a href="https://www.hackerrank.com/contests/biweekly-2nd-week-3/challenges/array-5-4">Click Here</a><br>
+Solution Link: <a href="https://www.onlinegdb.com/egR9NBshi">Click Here</a><br>
 
-### 3. (Hard)
+### 3. Reverse a Number (Hard)
 
-Question Link: <a href="paste link here">Click Here</a><br>
-Solution Link: <a href="paste link here">Click Here</a><br>
+Question Link: <a href="https://www.hackerrank.com/contests/biweekly-2nd-week-3/challenges/recursion-number-reversal">Click Here</a><br>
+Solution Link: <a href="https://www.onlinegdb.com/4ZPbH9fIhy">Click Here</a><br>
